@@ -1,6 +1,8 @@
 # don't forget to switch user to unrealircd
 ```su - unrealircd```
 
+# general info
+
 * Directory layout:
  * Base directory: /home/unrealircd/unrealircd
   * Configuration files: /home/unrealircd/unrealircd/conf
