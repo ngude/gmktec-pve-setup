@@ -17,3 +17,6 @@
 * To ensure UnrealIRCd automatically starts on system startup:
   * Install a cron job: https://www.unrealircd.org/docs/Cron_job
   * Or, use systemd: https://www.unrealircd.org/docs/Using_systemd_with_UnrealIRCd
+
+# setting up NPM for handling TLS
+use streams for port 6697, fwd to internal server port 6667
