@@ -28,3 +28,6 @@ https://www.unrealircd.org/docs/Using_Let's_Encrypt_with_UnrealIRCd
 # anope install
 reference - https://wiki.anope.org/index.php/2.0/Installation
 reference - https://www.unrealircd.org/docs/Linking_UnrealIRCd_with_anope
+
+# also check
+ergo - https://landchad.net/irc/
