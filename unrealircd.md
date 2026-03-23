@@ -18,5 +18,13 @@
   * Install a cron job: https://www.unrealircd.org/docs/Cron_job
   * Or, use systemd: https://www.unrealircd.org/docs/Using_systemd_with_UnrealIRCd
 
-# setting up NPM for handling TLS
+# setting up NPM for handling TLS (not ideal)
 use streams for port 6697, fwd to internal server port 6667
+
+# setting up for internal TLS/SSL w/ let's encrypt
+https://www.unrealircd.org/docs/Setting_up_certbot_for_use_with_UnrealIRCd
+https://www.unrealircd.org/docs/Using_Let's_Encrypt_with_UnrealIRCd
+
+# anope install
+reference - https://wiki.anope.org/index.php/2.0/Installation
+reference - https://www.unrealircd.org/docs/Linking_UnrealIRCd_with_anope
